@@ -1,6 +1,14 @@
 ![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)
 ![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
+![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)
+![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)
+![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
+
+## Data Science Notebooks
+
+This contains the ipython notebooks I've used for Udemy's Data Science and Machine Learning course.
+I've been using these as a reference whenever I create submissions to Kaggle Competitions.
 
 ## Instructions
 
